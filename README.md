@@ -1,15 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akhila Nakka</h1>
-<h3 align="center">Full-Stack Developer | Backend Engineering | Generative AI</h3>
-
-<p align="center">
-  <a href="https://akhila58.github.io/Portfolio_A/">Portfolio</a> ·
-  <a href="akhilanakka58@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/akhila-nakka-8594332a7/">LinkedIn</a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+backend+APIs;Working+with+LLMs%2C+RAG+%26+AI+Agents;Learning+System+Design+%26+Distributed+Systems;Passionate+about+production-ready+AI+apps" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Akhila Nakka</h1> <h3 align="center">Full-Stack Developer | Backend Engineering | Generative AI</h3> <p align="left"> Portfolio: https://akhila58.github.io/Portfolio_A/ <br> Email: akhilanakka58@gmail.com <br> LinkedIn: https://www.linkedin.com/in/akhila-nakka-8594332a7/ </p>
 
 ---
 
