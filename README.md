@@ -2,6 +2,12 @@
 <h3 align="center">Full-Stack Developer | Backend Engineering | Generative AI</h3>
 
 <p align="center">
+  <a href="https://akhila58.github.io/Portfolio_A/">Portfolio</a> ·
+  <a href="akhilanakka58@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/akhila-nakka-8594332a7/">LinkedIn</a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+backend+APIs;Working+with+LLMs%2C+RAG+%26+AI+Agents;Learning+System+Design+%26+Distributed+Systems;Passionate+about+production-ready+AI+apps" alt="Typing SVG" />
 </p>
 
@@ -9,11 +15,11 @@
 
 ### 🚀 About Me
 
-- 🔭 Full-Stack Developer with a strong interest in **backend engineering**, **system design**, and **Generative AI**
-- 🧠 Experienced in building scalable REST APIs and AI-powered applications using **Python, FastAPI, React.js**, and modern databases
-- 🤖 Hands-on experience with **LLMs, RAG, LangChain, LangGraph**, vector databases, and AI agent workflows
-- 📈 Currently strengthening my knowledge of **system design, database scaling, caching, replication, load balancing**, and distributed systems
-- 🎯 Passionate about building **scalable, reliable, production-ready applications** while growing as a backend & AI-focused engineer
+- 💼 Currently working as a **Junior Full Stack Developer at XYZ Company**
+- 🧠 Build scalable REST APIs and AI-powered applications with **Python, FastAPI, React.js**, and modern databases
+- 🤖 Hands-on with **LLMs, RAG, LangChain, LangGraph**, vector databases, and AI agent workflows shipped 3+ end-to-end GenAI projects
+- 📈 Deepening my **system design** skills scaling, caching, replication, load balancing, distributed systems
+- 🎯 Focused on building **reliable, production-ready software** and growing as a backend & GenAI-focused engineer
 - 🎓 B.Tech in Computer Science and Engineering, Aditya College of Engineering and Technology (2022 – 2026)
 
 ---
@@ -102,4 +108,4 @@ Text-to-SQL app translating natural language into SQL queries using a multi-agen
   <a href="https://github.com/Akhila58E"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>⭐️ Open to backend engineering & AI/ML roles — let's build something scalable together!</i></p>
+<p align="center"><i>⭐️ Open to software Engineering, backend engineering & GenAI. let's build something scalable together!</i></p>
