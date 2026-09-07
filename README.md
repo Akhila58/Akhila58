@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-- 💼 Currently working as a **Junior Full Stack Developer at XYZ Company**
+- 💼 Currently working as a **Junior Full Stack Developer at TekFrameworks Company**
 - 🧠 Build scalable REST APIs and AI-powered applications with **Python, FastAPI, React.js**, and modern databases
 - 🤖 Hands-on with **LLMs, RAG, LangChain, LangGraph**, vector databases, and AI agent workflows shipped 3+ end-to-end GenAI projects
 - 📈 Deepening my **system design** skills scaling, caching, replication, load balancing, distributed systems
