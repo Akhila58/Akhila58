@@ -15,7 +15,7 @@
 
 ### 💼 Experience
 
-**AI/ML Intern — Himitsu Lab** *(Apr 2025 – Dec 2025, Remote)*
+**AI/ML Intern — Himitsu Lab** *(JUN 2025 – SEP 2025, Remote)*
 - Prepared, cleaned, and validated structured & unstructured datasets for model training and evaluation
 - Generated synthetic training data using LLMs to improve dataset coverage and quality
 - Built Python/FastAPI utilities to automate data pipelines and expose AI data via REST APIs
